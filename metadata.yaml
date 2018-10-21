@@ -1,5 +1,5 @@
 _repo: The-Writings-of-Samuel-Adams-Volume-2_2092
-_version: 0.2.0
+_version: 0.2.1
 contributor:
   creator:
     editor:
@@ -34,5 +34,6 @@ subjects:
 - !lcc 'E300'
 - !lcsh 'United States -- Politics and government -- 1783-1809'
 - !lcsh 'United States -- Politics and government -- 1775-1783'
+- GITenberg
 title: The Writings of Samuel Adams - Volume 2
 url: http://www.gutenberg.org/ebooks/2092
